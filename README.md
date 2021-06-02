@@ -1,16 +1,9 @@
+# To run the project install node packages first!!!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Additional modules to install
-
-To load scss files into project run:
-
-## `npm i sass`
-
-Project require a full-featured markdown parser and compiler -install marked.js library:
-
-## `npm install react-marked --save`
 
 ## Available Scripts
 
